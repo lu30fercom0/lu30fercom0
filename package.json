@@ -1,0 +1,15 @@
+{
+  "name": "3.code-with-mosh---the-ultimate-html-css-mastery-series-part-3-2022-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
